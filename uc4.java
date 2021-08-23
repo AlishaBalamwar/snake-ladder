@@ -16,7 +16,7 @@ public class uc4 {
 			}
 		}
 		else  {
-			position =position;
+			position = position;
 			
 		}
 		System.out.println("current postion  is: " + position);
