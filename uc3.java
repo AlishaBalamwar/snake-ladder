@@ -1,6 +1,6 @@
 package snake;
 
-public class uc3 {
+public class uc3{
 	public static void main(String[] args) {
 	int position=43;
 	int snake= (int) Math.floor(Math.random() * 10) %3;
